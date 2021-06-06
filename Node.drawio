@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-06-06T07:52:52.154Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4530.5 Safari/537.36" version="14.7.6" etag="MQ4qh0ggAZ6Icu0gVBgb" type="github"><diagram id="7tjkyJyKQ0KrM5yjy94D">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-06T07:54:31.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4530.5 Safari/537.36" etag="ryAG0oFYawkMd8OUAI9S" version="14.7.6" type="github">
+  <diagram id="7tjkyJyKQ0KrM5yjy94D" name="Page-1">
+    <mxGraphModel dx="1113" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lH1kDSursYGsPiasXsed-1" value="Node" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="lH1kDSursYGsPiasXsed-2" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lH1kDSursYGsPiasXsed-1">
+          <mxGeometry x="10" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lH1kDSursYGsPiasXsed-3" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lH1kDSursYGsPiasXsed-1">
+          <mxGeometry x="85" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lH1kDSursYGsPiasXsed-4" value="Filebeat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="lH1kDSursYGsPiasXsed-1">
+          <mxGeometry x="65" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lH1kDSursYGsPiasXsed-6" value="Node File System" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="lH1kDSursYGsPiasXsed-1">
+          <mxGeometry y="200" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lH1kDSursYGsPiasXsed-9" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lH1kDSursYGsPiasXsed-1">
+          <mxGeometry x="10" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lH1kDSursYGsPiasXsed-10" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lH1kDSursYGsPiasXsed-1">
+          <mxGeometry x="85" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lH1kDSursYGsPiasXsed-11" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lH1kDSursYGsPiasXsed-1">
+          <mxGeometry x="160" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lH1kDSursYGsPiasXsed-8" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lH1kDSursYGsPiasXsed-1">
+          <mxGeometry x="160" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
