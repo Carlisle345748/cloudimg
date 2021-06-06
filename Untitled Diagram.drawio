@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-06T04:45:34.239Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4530.5 Safari/537.36" etag="csbht56zZQkFF-uTdF-Y" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-06T04:47:30.051Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4530.5 Safari/537.36" etag="I5Asjqw9FzpivZBYu59r" version="14.7.6" type="github">
   <diagram id="CCIx1nJYBqcQRO54KeJ1" name="Page-1">
-    <mxGraphModel dx="1113" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
         </mxCell>
         <UserObject label="Output" treeRoot="1" id="RWyGRk-tJpopODgYtM8n-24">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="RWyGRk-tJpopODgYtM8n-21">
-            <mxGeometry x="80" y="30" width="120" height="40" as="geometry" />
+            <mxGeometry x="80" y="40" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Harvester" treeRoot="1" id="RWyGRk-tJpopODgYtM8n-29">
@@ -88,7 +88,7 @@
         <mxCell id="RWyGRk-tJpopODgYtM8n-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="RWyGRk-tJpopODgYtM8n-21" source="RWyGRk-tJpopODgYtM8n-29" target="RWyGRk-tJpopODgYtM8n-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RWyGRk-tJpopODgYtM8n-40" value="Elasticsearch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RWyGRk-tJpopODgYtM8n-40" value="&lt;b&gt;Elasticsearch&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
